@@ -36,7 +36,7 @@ multiple-pods/ This folder contains all the pv, pvc and pod deployment for efs p
 
 
 To starts with the stack:
-
+------------------------
 Create a IAM user with proper permission and configure access keys 
 Create S3 bucket to store backend with versioning enabled , proper permission enabled and mention that buckets name in version.tf
 
